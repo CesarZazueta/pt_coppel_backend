@@ -16,3 +16,7 @@ INSERT INTO public.usuario
 VALUES('Jorge Arturo', 'jorge123', '$2b$10$iqH36EON95qwFHaq0rbN6uI4oaDW0vcPpigbwaBrNhuOzJhJ2BwO6', true);
 
 para poder correrlo todo de una les deje un archivo .sql
+
+y el backend corre con este comando:
+
+npm run start:dev
